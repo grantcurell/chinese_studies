@@ -1,1 +1,1 @@
-chinese_studies
+中文
