@@ -1,3 +1,5 @@
+# 得 vs 能
+
 今天天气不好，还照得了相吗？
 今天天气不好，还拍得了照吗？
 今天天气不好，还拍得了照吗？
@@ -12,3 +14,5 @@ En esta oración significa que el maestro no está permitiendo el estudiante res
 En esta oración significa que el estudiante no podría responder. Más como no ha estudiado.
 
 Si quieres decir que no puedes nadar, podrías decir: 我不會游泳. No podrías decir 我不能游泳. Esta tiene más el significado de permiso.
+
+[Grammar Points](https://resources.allsetlearning.com/chinese/grammar/Advanced_potential_complements)
