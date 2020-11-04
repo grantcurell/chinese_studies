@@ -20,9 +20,9 @@
 ![](resources/19-22.jpg)
 
 19. B？因爲我不知道“千完”的意思也可以是A。
-    1.  千完 - 是什麽意思？
+    1.  ~~千完 - 是什麽意思？~~ It's 幹活
 20. A
-    1.  裏裏外外 - 是什麽意思？
+    1.  裏裏外外 ~~- 是什麽意思~~ it's literal, it means inside and outside
 21. D
     1.  密切 - osculation (close contact)
     2.  按年 - annually
