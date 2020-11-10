@@ -7,7 +7,8 @@
 
 1. C （dingxing?)
 2. B - 我猜，不知道。（yinqi-wenjian-guzhi）
-3. B - 我猜這個應爲我聼到了大學 (qihuile-liangnianle-xingli)
+3. ~~B~~ - 我猜這個應爲我聼到了大學 (qihuile-liangnianle-xingli)
+   1. He saw his ex-wife at a gathering of the students.
 4. ? (今天caizheme-haicuocaixian???)
 5. A (jianbao-想要說肩膀？)
 6. ？(yijiantaigongzuo??? - 我不知道)
@@ -27,6 +28,6 @@
 5. A/B? (gan的不xin???-changli?-beizele?)
 6. C (即在他説”小李偷偷告訴我的“我不明白他説什麽)
 
-Corrections
+## Corrections
 
 2 5 6
