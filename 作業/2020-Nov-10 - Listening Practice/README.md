@@ -16,7 +16,9 @@
 - 这种忙我坚决不能帮
 - 这要被发现了可不得了
 - 您和爸爸今天就在这儿住吧。
+  - It's a suggestion that his mom stay overnight
 - 不行，你又不是不知道，我们从不在城里住
+
 
 
 ## Transcripts
