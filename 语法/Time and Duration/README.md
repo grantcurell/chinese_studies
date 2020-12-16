@@ -51,6 +51,11 @@ You can also add the repitition
 ### Difference between 等待 and 等
 等待 （东西 - 不可以是人）
 等 （东西 或 人）
+
+### Classifiers for Times
+
+![](images/2020-12-16-07-33-28.png)
+
 ## 作业
 
 [作业](../../作業/2020-Dec-15%20Time%20and%20Duration/README.md)
