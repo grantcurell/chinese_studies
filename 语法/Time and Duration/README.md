@@ -59,3 +59,20 @@ You can also add the repitition
 ## 作业
 
 [作业](../../作業/2020-Dec-15%20Time%20and%20Duration/README.md)
+
+# Daily Habits
+
+Do not add 了 for daily habits. Ex
+我每天学一个小时中文。
+
+## Negation
+
+![](images/2020-12-21-07-57-44.png)
+
+- 我们三天没上中文课了。
+- 我两年没弹钢琴了。
+- 我们两个月没去那家饭店了。 
+- 我三个星期没见过他了
+- 我三个星期没见他了
+- 我们三个星期没见面了
+- 我和他三个星期没见面了。
