@@ -3,10 +3,15 @@
 
 1. Make five sentences related to your real life to talk about the time/method to arrive from place1 to place2, using “要” or “就到了” to express what you think of it: quick or slow.
    1. 从我家到咖啡店，走路十分钟就到了
-   2. 坐自行车，我家离医院尤七英里
+   2. 坐自行车，我家离医院有七英里
+      1. Wrong - when using a bike they use 骑自行车
+      2. Corrected sentence 我家离医院有七英里的自行车车程. They use 车程
+      3. If it were a car they say 我家离医院有五英里的车程
    3. 从我家到家乡，坐一架小飞机要三个小时
-   4. 从圣安东尼奥到我家乡，坐一架小飞机要七个小时
-   5. 从哪里到哪里，用瞬间传送着零个秒就到了
+      1. You have to specify whose hometown 从我家到 我的家乡
+   4. 从圣安东尼奥到我的家乡，坐一架小飞机要七个小时
+   5. 从这里到哪里，用传送器秒就到了
+      1. You could also say 用传送器 不到一秒 就到了 (it doesn't even reach a second)
 2. B
 3. B
 4. C
@@ -22,7 +27,7 @@
 
 2. 抱怨（两个小时） 
 
-        在房间里，因为它需要做新网站，我太太已经报了两个小时怨了
+        在房间里，因为它需要做新网站，我太太已经抱怨了两个小时了
 
 3. 等他 （ 四十五分钟）
 
