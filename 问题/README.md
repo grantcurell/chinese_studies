@@ -84,3 +84,6 @@ See above
 贪污 - to be corrupt/corrupt/embezzled money
 
 这是在给也称清理门户呢 - it's referring to ourselves. It's like we're the cleaners of the city. 门户 is kind of a euphamism for the city
+
+## 29 Dec 2020
+
