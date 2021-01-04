@@ -22,7 +22,7 @@
 ![](2020-12-30-08-28-14.png)
 
 褶子 - the top of dumpling
-He's saying that the meet is inside the dumpling (you can't judge a book by its cover)
+He's saying that the meat is inside the dumpling (you can't judge a book by its cover)
 
 ![](2020-12-30-08-33-12.png)
 

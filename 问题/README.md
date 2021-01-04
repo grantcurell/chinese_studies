@@ -49,15 +49,15 @@ Update: It's an ancient chinese meaning - you have to know that right below the 
 
 ![](2020-12-23-20-30-38.png)
 
-无缘无故 = no reason
-挑起 = cause problems
-事端 = disturbance/incident
-但他们趋势并非并领地性很强的帮派 = 领地性 is like the tendency to stay in one place. It's saying you can find them everywhere.
-留着小平头 = hairstyle, like a short haircut - only a little bit of hair is left
-逮着 - to catch/arrest 
-暴力 - violent
-混混 - hoodlum kinda thing. Maybe they don't have jobs, get in fights with other people. That sort of thing.
-杀你是眼皮子都不会眨一下 - They kill you and don't even blink
+- 无缘无故 = no reason
+- 挑起 = cause problems
+- 事端 = disturbance/incident
+- 但他们趋势并非并领地性很强的帮派 = 领地性 is like the tendency to stay in one place. It's saying you can find them everywhere.
+- 留着小平头 = hairstyle, like a short haircut - only a little bit of hair is left
+- 逮着 - to catch/arrest 
+- 暴力 - violent
+- 混混 - hoodlum kinda thing. Maybe they don't have jobs, get in fights with other people. That sort of thing.
+- 杀你是眼皮子都不会眨一下 - They kill you and don't even blink
 
 ![](2020-12-23-20-43-15.png)
 
@@ -66,14 +66,14 @@ See above
 
 ![](2020-12-25-08-55-32.png)
 
-过去二十年，我们两个谁都看不上谁，现在也一样
-那我换一种说法 - I'll say it in another way
-糊涂 - senile
-专横独断 - 专横 is tyranical/dictatorial and 独断 is to decide without consulting others. Combined they form a common Chinese phrase.
-劝 - this is to suggest
-死活 - has a 无论如何 meaning. Doesn't matter what happens
-死活不听劝 - live or die he won't listen to a suggestion
-一心只想活在那个已经不存在，也可能从来就不会存在的世界里 - He only wants to live in the world that doesn't exist [now] and probably never did
+- 过去二十年，我们两个谁都看不上谁，现在也一样
+- 那我换一种说法 - I'll say it in another way
+- 糊涂 - senile
+- 专横独断 - 专横 is tyranical/dictatorial and 独断 is to decide without consulting others. Combined they form a common Chinese phrase.
+- 劝 - this is to suggest
+- 死活 - has a 无论如何 meaning. Doesn't matter what happens
+- 死活不听劝 - live or die he won't listen to a suggestion
+- 一心只想活在那个已经不存在，也可能从来就不会存在的世界里 - He only wants to live in the world that doesn't exist [now] and probably never did
 
 ![](2020-12-25-11-05-12.png)
 
@@ -86,4 +86,6 @@ See above
 这是在给也称清理门户呢 - it's referring to ourselves. It's like we're the cleaners of the city. 门户 is kind of a euphamism for the city
 
 ## 29 Dec 2020
+
+![](2020-12-29-18-15-52.png)
 

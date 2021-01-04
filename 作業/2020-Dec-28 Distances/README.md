@@ -1,5 +1,5 @@
 
-#
+# Distances
 
 1. Make five sentences related to your real life to talk about the time/method to arrive from place1 to place2, using “要” or “就到了” to express what you think of it: quick or slow.
    1. 从我家到咖啡店，走路十分钟就到了
@@ -12,11 +12,38 @@
    4. 从圣安东尼奥到我的家乡，坐一架小飞机要七个小时
    5. 从这里到哪里，用传送器秒就到了
       1. You could also say 用传送器 不到一秒 就到了 (it doesn't even reach a second)
-2. B
-3. B
-4. C
-5. B
 
+## Multiple Choice
+
+1、我昨天（ ） 
+A. 看了电影两个多小时             
+B.看了两个多小时电影 
+C.看电影了两个多小时              
+D.看了两个多小时电影了 
+
+2、我好久没看见玛丽了，麦克说（ ） 
+A.她回了国三个月                  
+B.她回了三个月过 
+C.他回国三个月了                  
+D.她回国了三个月 
+
+3、你（ ），也该休息休息了。 
+A.已经看书了好几个小时了          
+B. 已经看了好几个小时书了 
+C.已经好几个小时看了书了          
+D.好几个小时已经看了书了 
+
+4、他（ ），汉语说得不错。 
+A.中国已经来三年多了              
+B.已经三年多了来中国 
+C.来中国三年已经多了              
+D.已经来者三年多了 
+
+5、他（ ），很累。 
+A.坐车坐了四十分钟才到家          
+B.才到家坐车坐了四十分钟 
+C.坐了车四十分钟才到家            
+D.坐车了四十分钟才到家
 ## Create Sentences
 
 加上主语，时间，地点造句（add subject, time and place)
