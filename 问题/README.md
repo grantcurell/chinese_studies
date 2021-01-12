@@ -2,7 +2,7 @@
 
 ##　二零二零十二月二十三号
 
-![](2020-12-23-19-58-34.png)
+![](images/2020-12-23-19-58-34.png)
 
 我也不想闹得太张扬
 我不想泰斗人知道
@@ -20,7 +20,7 @@ Update: It's an ancient chinese meaning - you have to know that right below the 
 
 早晚 - sooner or later
 
-![](2020-12-23-19-58-48.png)
+![](images/2020-12-23-19-58-48.png)
 
 官差 - police
 我是必须得办了 - We have to resolve this. Here 必须得 is all one word. They used the le because it can alse be used to indicate a rapidly occurring action in the near future.
@@ -34,7 +34,7 @@ Update: It's an ancient chinese meaning - you have to know that right below the 
 安生 - this means they'll be quiet. The tiger gang will see you kill these people and quiet down.
 
 
-![](2020-12-23-20-05-32.png)
+![](images/2020-12-23-20-05-32.png)
 
 - 二手 = second hand
 - 跳楼大甩卖 = The price is so low the boss wants to kill himself.
@@ -47,7 +47,7 @@ Update: It's an ancient chinese meaning - you have to know that right below the 
 - 淡淡 = slight
 - 烟味 = smell of smoke
 
-![](2020-12-23-20-30-38.png)
+![](images/2020-12-23-20-30-38.png)
 
 - 无缘无故 = no reason
 - 挑起 = cause problems
@@ -59,12 +59,12 @@ Update: It's an ancient chinese meaning - you have to know that right below the 
 - 混混 - hoodlum kinda thing. Maybe they don't have jobs, get in fights with other people. That sort of thing.
 - 杀你是眼皮子都不会眨一下 - They kill you and don't even blink
 
-![](2020-12-23-20-43-15.png)
+![](images/2020-12-23-20-43-15.png)
 
 
 See above
 
-![](2020-12-25-08-55-32.png)
+![](images/2020-12-25-08-55-32.png)
 
 - 过去二十年，我们两个谁都看不上谁，现在也一样
 - 那我换一种说法 - I'll say it in another way
@@ -75,7 +75,7 @@ See above
 - 死活不听劝 - live or die he won't listen to a suggestion
 - 一心只想活在那个已经不存在，也可能从来就不会存在的世界里 - He only wants to live in the world that doesn't exist [now] and probably never did
 
-![](2020-12-25-11-05-12.png)
+![](images/2020-12-25-11-05-12.png)
 
 道上 - this is a derivative of 黑道，白道 - basically like the two worlds. In ancient China there were many gangs. One could say they were 民间 - among the people. When talking about being among the people you could say 道上. Here it is a substitute for the word 帮派 (gang).
 
@@ -87,8 +87,8 @@ See above
 
 ## 29 Dec 2020
 
-![](2020-12-29-18-15-52.png)
+![](images/2020-12-29-18-15-52.png)
 
 ## 9 Jan 2020
 
-![](2021-01-09-16-53-48.png)
+![](images/2021-01-09-16-53-48.png)
