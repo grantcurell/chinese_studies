@@ -2,19 +2,43 @@
 
 How do you use 倒 as however?
 
-    我学习中文很多，本事嘛。。。倒不好。
+~~我学习中文很多，本事嘛。。。倒不好~~
+If you put 倒 at the end it gives it a positive connotation. For example:
+
+	这个剧本的内容一般，语言倒很生动。
+  
+Example 2 (This implies the guest also wants to ask a question politely. It is ~however.:
+
+  王经理 : 冒昧地问一个问题, 您认为这个厂怎么 才能向前发展呢?
+  客人 : 条件当 然 是多 方面的了。 王经理, 如 果您不介意的话, 我倒 想 提一 个问 题。
+  
+Example 3: Indicating that you are a bit surprised by the outcome:
+
+	咱们能一起去, 那倒挺好。
+
+If you want a negative connotation you should use 但是，or 可是
 
 How do you say "ever since"? (Not 來 by itself)
 
-    选举结束以来，美国有革命分子的问题。
+~~选举结束以来，美国有特朗普支持者的问题.~~
+
+	美国的总统选举结束以来, 一部分特朗普支持者制造了很多问题，甚至冲进了国会大厦。
 
 How do you say "not only, but also" using 不僅?
 
-    孙悟空不仅是很聪明，而且也很强。
+    孙悟空不仅很聪明，而且（身体）很强壮。
+    
+    她不仅很漂亮，而且还很善良。
 
 How do you use 格外 in a sentence?
 
-    我昨天跑步得格外快！
+    我昨天跑步得跑得格外快！
+    
+    雨后的天气格外清新。
+    
+    昨天晚上我睡得很好，今天我的心情格外好。
+    
+    对那些笑里藏刀的坏人，我们要格外警惕。
 
 How do you say "had better" like "we had better do something"?
 
