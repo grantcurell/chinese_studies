@@ -43,27 +43,32 @@ How do you use 格外 in a sentence?
 How do you say "had better" like "we had better do something"?
 
     我们得帮助唐僧！
-    不过唐僧不很聪颖。。。另外他很喜欢用金圈折磨我们。。。我们还是可以走吧。
-
-    我想学中文！
-    还是得练习弹电贝司。
+~~不过唐僧不很聪颖。。。另外他很喜欢用金圈折磨我们。。。我们还是可以走吧。~~
+    不过唐僧不很聪颖。。。另外他很喜欢用金圈折磨我们。。。我们最好还是可以走吧。
 
 How do you use 吧 to concede a point?
 
-    格兰特你想走路哪里吗？
-    好吧，我讨厌走路倾向于跑步，不过可以走路。
+~~格兰特你想走路哪里吗？~~
+    格兰特，我们走路去吧。
+    好吧，我愿意跑着去，不过走路也可以。
 
 What does 老是 mean? How do you use it?
 
-    你老是想小睡! 你从来都这样！
+~~你老是想小睡! 你从来都这样！~~
+    你老是想打盹儿！你老这样！
 
 How do you say "how about" using 要不?
 
     大家都有点累了，要不休息一会儿吧？
 
+    You could also say, "休息一会儿怎么样？"
+
 How do you say on the contrary? This is not like saying "but" - it is the totally opposite idea.
 
-    我太太想要举重，我反而想要跑步！
+~~我太太想要举重，我反而想要跑步！~~
+    Better would be: 我太太想要举重，我倒想要跑步。
+
+    他平时学习不努力，但是成绩反而比我好。
 
 What does the pattern "Adj. + 是 + Adj. ， 但是 / 就是 ⋯⋯" do?
 
