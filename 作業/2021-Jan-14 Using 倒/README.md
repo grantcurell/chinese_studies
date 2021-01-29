@@ -4,7 +4,6 @@
 
         Her mother was too busy playing cards all day to care about her but her cousin looked after her, gave her medicine, and those sorts of things.
 
-
 2. 
 
 “给二哥提亲? 哪个给二哥提亲?” 觉慧惊异地问道。
@@ -38,7 +37,7 @@
 
 6. 质量倒挺好, 就是价钱贵点儿。
 
-        The quality is fantastic - I bet it's expensive!
+        The quality is fantastic - but it's expensive!
 
 7. 住这儿交通倒很方便, 可是人声太嘈杂。
 

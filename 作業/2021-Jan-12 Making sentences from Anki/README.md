@@ -72,12 +72,10 @@ How do you say on the contrary? This is not like saying "but" - it is the totall
 
 What does the pattern "Adj. + 是 + Adj. ， 但是 / 就是 ⋯⋯" do?
 
-    中文台南市太难，但是我很好奇, 想学更多。
+~~中文台南市太难，但是我很好奇, 想学更多。~~
+    学中文难是难，但是很有意思
 
 How do you say "I'm going to do something"? (One character)
 
-    我要回去太晚，而需要等新冠病毒流行病结束。
+    我要再去台湾，但是需要等新冠疫情结束。
 
-这图片我还不懂
-
-![](2021-01-12-16-50-38.png)
