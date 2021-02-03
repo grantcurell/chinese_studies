@@ -28,6 +28,15 @@ If the quantity is small and the measure word is at the end then you can use jiu
 ![](2021-01-29-08-56-45.png)
 ![](2021-01-29-08-58-26.png)
 You're just adding extra emphasis that it is this person. For example if you were looking at a photo with lots of people you coould use this to indicate that it is this person in particular.
+
+# Other notes
+`如果（只要、 既然、 因为、 为了等）··· 就` You can add a jiu to all of these and it more or less has a "then" meaning.
+
+    只要努力， 就能学会。
+    既然他不同意， 那就算了吧。
+
+If you see 就 followed by a subject then you know it is acting as a determiner.
+
 【一】
 
 1.就是！ 你说的一点也没错！
